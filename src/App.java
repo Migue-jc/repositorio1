@@ -8,5 +8,4 @@ public class App {
         String estadoModulo = "Sin módulos activos";
         System.out.println("Estado: " + estadoModulo);
     }
-    String estadoModulo = "Módulo de Login Activado por Alumno A";
 }
